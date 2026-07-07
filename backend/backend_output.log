@@ -1,0 +1,11 @@
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [93642]
+INFO:     Started server process [101184]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+/home/jules/.pyenv/versions/3.12.13/lib/python3.12/site-packages/statsmodels/stats/outliers_influence.py:198: RuntimeWarning: divide by zero encountered in scalar divide
+  vif = 1. / (1. - r_squared_i)
+INFO:     127.0.0.1:53466 - "POST /api/analyze HTTP/1.1" 200 OK
